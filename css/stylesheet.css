@@ -1,0 +1,24 @@
+body{background-color: rgb(129, 150, 150);}
+h1{color:rgb(230, 42, 18) ; font-style: italic;font: bold;}
+h2{color:rgb(230, 42, 18) ; font-style: italic;font: bold;}
+h3{color:rgb(230, 42, 18) ; font-style: italic;font: bold;}
+img{width: 200px;height: 220px;}
+ul{font-weight: bold;}
+table{border: 1pt solid;}
+table{border-collapse: collapse;}
+
+/* css class*/
+.error{color: chartreuse;font-weight: bold;}
+/* css ids*/
+#page_title{color: chocolate;
+    font-weight: bold;
+    font-size: 3rem;
+    border: 1px black solid;
+    }
+
+/* unvisited link*/
+a:link{color: blue;}
+/* visited link*/
+a:visited{color:blue;}
+/* mouse over link*/
+a:hover{color: yellow;} 
