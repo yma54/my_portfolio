@@ -1,4 +1,4 @@
-# Project Name
+# Portfolio Webpage
 > The project is a one page html style portfolio website for myself,including links to my accounts.
 
 
@@ -42,7 +42,7 @@ The project was inspired by my undergraduate course: BAIS:3300
 
 
 ## Contact
-Email for the creator:Mayucong45@gmail.com      feel free to contact me!
+Email of the creator:Mayucong45@gmail.com      feel free to contact me!
 
 
 <!-- Optional -->
